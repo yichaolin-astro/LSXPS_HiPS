@@ -1,7 +1,7 @@
 hips_initial_fov     = 0.4580648549089874
 hips_initial_ra      = 45.0
 hips_initial_dec     = 0.2984168674869428
-creator_did          = ivo://UNK.AUTH/P/SwiftXRTcolor
+creator_did          = GWU/P/SwiftXRTcolor
 hips_creator         = Yichao Lin (The George Washington University)
 #hips_copyright      = Copyright mention of the HiPS
 obs_title            = SwiftXRT RGB (0.3-1, 1-2, 2-10 keV)
