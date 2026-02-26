@@ -15,4 +15,4 @@ To download the HiPS file, see the release page.
 
 # Known Issue:
 
-Difficulty with seeing low flux count X-ray photons due to the scaling limits used for physical pixel counts during the creation of the HiPS file. 
+Single pixels in the original image will be lost due to compression in the HiPS production pipeline.
