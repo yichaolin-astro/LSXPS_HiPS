@@ -10,3 +10,7 @@ HiPS file link: https://yichaolin-astro.github.io/LSXPS_HiPS/SwiftXRT_color
 To access using ESASky or Aladin, paste the HiPS file link when prompted to add HiPS file from URL
 
 To download the HiPS file, see the release page.
+
+# Known Issue:
+
+Difficulty with seeing low flux count X-ray photons due tothe  scaling limit of physical pixel counts.
