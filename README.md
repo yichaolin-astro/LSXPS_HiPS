@@ -5,7 +5,7 @@ Built using stacked images from LSXPS
 
 Last updated: Feb 22, 2026
 
-HiPS file link: https://yichaolin-astro.github.io/LSXPS_HiPS/swift_color
+HiPS file link: https://yichaolin-astro.github.io/LSXPS_HiPS/SwiftXRT_color
 
 To access using ESASky or Aladin, paste the HiPS file link when prompted to add HiPS file from URL
 
