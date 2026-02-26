@@ -1,0 +1,41 @@
+hips_initial_fov     = 0.4580648549089874
+hips_initial_ra      = 45.0
+hips_initial_dec     = 0.2984168674869428
+creator_did          = ivo://UNK.AUTH/P/SwiftXRTcolor
+#hips_creator        = HiPS creator (institute or person)
+#hips_copyright      = Copyright mention of the HiPS
+obs_title            = SwiftXRTcolor
+#obs_collection      = Dataset collection name
+#obs_description     = Dataset text description
+#obs_ack             = Acknowledgement mention
+#prov_progenitor     = Provenance of the original data (free text)
+#bib_reference       = Bibcode for bibliographic reference
+#bib_reference_url   = URL to bibliographic reference
+#obs_copyright       = Copyright mention of the original data
+#obs_copyright_url   = URL to copyright page of the original data
+#t_min               = Start time in MJD ( =(Unixtime/86400)+40587  or https://heasarc.gsfc.nasa.gov/cgi-bin/Tools/xTime/xTime.pl)
+#t_max               = Stop time in MJD
+#em_min              = Start in spectral coordinates in meters ( =2.998E8/freq in Hz, or =1.2398841929E-12*energy in MeV )
+#em_max              = Stop in spectral coordinates in meters
+#obs_regime          = Waveband keyword (Radio Infrared Optical UV X-ray Gamma-ray)
+hips_builder         = Aladin/HipsGen v12.656
+hips_version         = 1.4
+hips_release_date    = 2026-02-24T16:05Z
+hips_frame           = equatorial
+hips_order           = 7
+hips_order_min       = 0
+hips_tile_width      = 512
+#hips_service_url    = ex: http://yourHipsServer/SwiftXRTcolor
+hips_status          = public master clonableOnce
+hips_pixel_scale     = 8.946E-4
+dataproduct_type     = image
+dataproduct_subtype  = color
+hips_rgb_red         = swift_red [0.0 NaN 100.0 Linear]
+hips_rgb_green       = swift_green [0.0 NaN 100.0 Linear]
+hips_rgb_blue        = swift_blue [0.0 NaN 100.0 Linear]
+hipsgen_date         = 2026-02-24T15:49Z
+hipsgen_params       = id=SwiftXRTcolor inRed=D:/MySkyMaps/SwiftXRT_red inGreen=D:/MySkyMaps/SwiftXRT_green inBlue=D:/MySkyMaps/SwiftXRT_blue out=D:/MySkyMaps/SwiftXRT_color RGB
+hips_creation_date   = 2026-02-24T15:49Z
+hips_overlay         = overlayMean mergeOverwriteTile treeMedian
+moc_sky_fraction     = 0.652
+hips_tile_format     = png
