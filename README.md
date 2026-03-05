@@ -13,6 +13,4 @@ To access using ESASky or Aladin, paste the HiPS file link when prompted to add 
 
 To download the HiPS file, see the release page.
 
-# Known Issue:
 
-Single pixels in the original image will be lost due to compression in the HiPS production pipeline.
