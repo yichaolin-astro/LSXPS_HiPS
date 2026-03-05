@@ -1,0 +1,41 @@
+hips_initial_fov     = 0.4580648549089874
+hips_initial_ra      = 45.0
+hips_initial_dec     = 0.2984168674869428
+creator_did          = GWU/P/SwiftXRTcolor
+hips_creator        = Yichao Lin (The George Washington University)
+#hips_copyright      = Copyright mention of the HiPS
+obs_title            = SwiftXRT RGB (0.3-1, 1-2, 2-10 keV)
+#obs_collection      = Dataset collection name
+#obs_description     = Dataset text description
+#obs_ack             = Acknowledgement mention
+#prov_progenitor     = Provenance of the original data (free text)
+#bib_reference       = Bibcode for bibliographic reference
+#bib_reference_url   = URL to bibliographic reference
+#obs_copyright       = Copyright mention of the original data
+#obs_copyright_url   = URL to copyright page of the original data
+#t_min               = Start time in MJD ( =(Unixtime/86400)+40587  or https://heasarc.gsfc.nasa.gov/cgi-bin/Tools/xTime/xTime.pl)
+#t_max               = Stop time in MJD
+#em_min              = Start in spectral coordinates in meters ( =2.998E8/freq in Hz, or =1.2398841929E-12*energy in MeV )
+#em_max              = Stop in spectral coordinates in meters
+#obs_regime          = Waveband keyword (Radio Infrared Optical UV X-ray Gamma-ray)
+hips_builder         = Aladin/HipsGen v12.656
+hips_version         = 1.4
+hips_release_date    = 2026-03-05T01:26Z
+hips_frame           = equatorial
+hips_order           = 6
+hips_order_min       = 0
+hips_tile_width      = 512
+hips_service_url    = https://yichaolin-astro.github.io/LSXPS_HiPS/SwiftXRT_color
+hips_status          = public master clonableOnce
+hips_pixel_scale     = 0.001789
+dataproduct_type     = image
+dataproduct_subtype  = color
+hips_rgb_red         = swift_red [2.159E-6 NaN 0.9377 Linear]
+hips_rgb_green       = swift_green [3.766E-6 NaN 1.321 Linear]
+hips_rgb_blue        = swift_blue [3.371E-6 NaN 4.607 Linear]
+hipsgen_date         = 2026-03-05T01:21Z
+hipsgen_params       = id=SwiftXRTcolor inRed=D:/MySkyMaps/SwiftXRT_red_v2 inGreen=D:/MySkyMaps/SwiftXRT_green_v2 inBlue=D:/MySkyMaps/SwiftXRT_blue_v2 out=D:/MySkyMaps/SwiftXRT_color_v2 RGB
+hips_creation_date   = 2026-03-05T01:21Z
+hips_overlay         = overlayMean mergeOverwriteTile treeMedian
+moc_sky_fraction     = 0.8388
+hips_tile_format     = png
